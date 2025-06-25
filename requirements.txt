@@ -1,5 +1,5 @@
 Flask==2.3.3
 Flask-Cors==3.0.10
-waitress==2.1.2
 web3==6.18.0
 requests==2.31.0
+gunicorn==21.2.0 # Add gunicorn
